@@ -1,0 +1,10 @@
+@echo Off
+title Test
+echo Test app is runnig
+echo Wszystko działa jak powinno działać
+pause
+color 2 
+echo Tekst wysyłamy po naciśnieciu dowolnego klawiszu
+mkdir RobloxStudio
+Start Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd  Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd  Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd  Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd  Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd  Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd CmdCmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd Cmd
+zamknij
